@@ -1,0 +1,52 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.6);   
+    width: 750px;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 40px;
+  }
+
+.logo{
+    width: 150px;
+    display: block;
+    margin: auto;
+}
+.logo-text{
+    color: greenyellow; 
+    text-align: center;
+}
+
+.menu{
+    background-color: greenyellow;
+    padding: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.monopattini{
+    color: white;
+}
+.batteria1{
+    background-color: orange;
+    width: 250px;
+    height: 20px;
+    border-radius: 5px;
+}
+.batteria2{
+    background-color: green;
+    width: 400px;
+    height: 20px;
+    border-radius: 5px;
+}
+.batteria3{
+    background-color: red;
+    width: 100px;
+    height: 20px;
+    border-radius: 5px;
+}
